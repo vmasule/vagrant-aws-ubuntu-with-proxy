@@ -2,4 +2,4 @@
 
 ### Pre-requisite
 
-**** Install `vagrant-proxyconf`, `vagrant-vbguest` and `vagrant-winnfsd` vagrant plugins.
+1. Install `vagrant-proxyconf`, `vagrant-vbguest` and `vagrant-winnfsd` vagrant plugins.
