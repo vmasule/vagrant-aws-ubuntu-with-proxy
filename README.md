@@ -1,0 +1,1 @@
+# vagrant-aws-ubuntu-with-proxy
